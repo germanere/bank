@@ -1,2 +1,2 @@
 # digital bank
-just digital bank
+loan a received account
